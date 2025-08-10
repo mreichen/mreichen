@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# Welcome! I am a plant and community ecologist focused on applied research that addresses immediately relevant questions in rangeland ecology and management. I work as an assistant professor and rangeland management extension specialist at Kansas State University.
 <!--
 **mreichen/mreichen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
